@@ -1,6 +1,4 @@
 ### Hi there 👋
-- 📫 How to reach me: ...
-[Linkdin](www.linkedin.com/in/onkar-kumbhar-ab36271a3)  [Instagram](@onkar_s_kumbhar)   
 <!--
 **onkarkumbhar/onkarkumbhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
